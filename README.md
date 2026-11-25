@@ -2,7 +2,7 @@
 
 NetScope is a network toolkit for iPhone and Android. It finds devices on your Wi-Fi network and gives you the usual diagnostic tools in one app.
 
-Current version: **1.8**
+Current version: **1.8.2**
 
 ## Screenshots
 
@@ -22,11 +22,11 @@ Current version: **1.8**
 
 ## Install on Android
 
-Download `NetScope-android-v1.8.apk` from the Releases page, open it, and allow "Install unknown apps" when asked. Needs Android 8.0 or later. Later updates: Settings > Check for app update.
+Download `NetScope-android-v1.8.2.apk` from the Releases page, open it, and allow "Install unknown apps" when asked. Needs Android 8.0 or later. Later updates: Settings > Check for app update.
 
 ## Install on iOS (unsigned IPA)
 
-Download `NetScope-v1.8.ipa` from the Releases page. NetScope shows a notice in Settings when a newer version is out, and opens the release page. The IPA is unsigned, so you must sign it with your own Apple ID using one of the tools below.
+Download `NetScope-v1.8.2.ipa` from the Releases page. NetScope shows a notice in Settings when a newer version is out, and opens the release page. The IPA is unsigned, so you must sign it with your own Apple ID using one of the tools below.
 
 ### 3uTools (Windows)
 
