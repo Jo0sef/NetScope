@@ -22,7 +22,7 @@ Current version: **1.7**
 
 ## Install on Android
 
-Download `NetScope-android-v1.0.apk` from the Releases page, open it, and allow "Install unknown apps" when asked. Needs Android 8.0 or later.
+Download `NetScope-android-v1.3.apk` from the Releases page, open it, and allow "Install unknown apps" when asked. Needs Android 8.0 or later.
 
 ## Install on iOS (unsigned IPA)
 
