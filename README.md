@@ -1,13 +1,13 @@
 # NetScope
 
-NetScope is a network toolkit for iPhone. It finds devices on your Wi-Fi network and gives you the usual diagnostic tools in one app.
+NetScope is a network toolkit for iPhone and Android. It finds devices on your Wi-Fi network and gives you the usual diagnostic tools in one app.
 
 Current version: **1.7**
 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/devices.png" width="220"> <img src="screenshots/speedtest.png" width="220"> <img src="screenshots/tools.png" width="220"> <img src="screenshots/settings.png" width="220">
+  <img src="https://github.com/user-attachments/assets/6c3f8714-bb5c-4636-aa13-53bb5a1f79f1" width="220"> <img src="https://github.com/user-attachments/assets/2dbb2f3b-4265-4913-b4ab-11188b4f7580" width="220"> <img src="https://github.com/user-attachments/assets/534c207c-f997-455a-9163-5ce822aaeacc" width="220"> <img src="https://github.com/user-attachments/assets/607ece23-8050-4956-9f24-a7cafdaa6861" width="220">
 </p>
 
 ## Features
@@ -18,9 +18,13 @@ Current version: **1.7**
 - Speed test with history
 - 9 themes
 - English and Arabic UI
-- Requires iOS 16 or later
+- Requires iOS 14 or later (iOS app). An Android version (Android 8.0 or later) is on the Releases page too.
 
-## Install (unsigned IPA)
+## Install on Android
+
+Download `NetScope-android-v1.0.apk` from the Releases page, open it, and allow "Install unknown apps" when asked. Needs Android 8.0 or later.
+
+## Install on iOS (unsigned IPA)
 
 Download `NetScope-v1.7.ipa` from the Releases page. The IPA is unsigned, so you must sign it with your own Apple ID using one of the tools below.
 
